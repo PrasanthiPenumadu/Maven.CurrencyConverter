@@ -1,5 +1,6 @@
 # Wu-Tang Financial
-* **Objective** - to implement a `CurrencyConverter` capable of identifying exchange rates between any two arbitrary types of currency
+* **Objective** - to implement a `CurrencyConverter` capable of identifying exchange 
+rates between any two arbitrary types of currency
 * **Purpose** - to demonstrate use of
     * object orientation
     * enums  
